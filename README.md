@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:06B6D4&height=190&section=header&text=Rithinteja%20Aechan&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20%E2%80%A2%20Product%20%E2%80%A2%20Cloud&descAlignY=57&descSize=18" alt="Rithinteja Aechan: AI, Product, Cloud" />
+  <img width="100%" src="./assets/atlanta-skyline-banner.png" alt="Atlanta skyline banner for Rithinteja Aechan" />
 </p>
 
 <p align="center">
