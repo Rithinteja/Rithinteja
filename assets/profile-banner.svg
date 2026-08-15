@@ -1,40 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
   <title id="title">Rithinteja Aechan</title>
   <desc id="desc">AI, Product, and Cloud</desc>
 
   <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#07182b" />
-      <stop offset="0.58" stop-color="#0d2d47" />
-      <stop offset="1" stop-color="#164b67" />
+      <stop offset="0.55" stop-color="#0b2d48" />
+      <stop offset="1" stop-color="#124b68" />
     </linearGradient>
-    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#b3a369" />
-      <stop offset="1" stop-color="#e5d39a" />
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8f814e" />
+      <stop offset="0.5" stop-color="#e5d39a" />
+      <stop offset="1" stop-color="#8f814e" />
     </linearGradient>
-    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
-      <path d="M44 0H0V44" fill="none" stroke="#ffffff" stroke-opacity="0.035" />
-    </pattern>
     <clipPath id="frame">
-      <rect width="1200" height="280" rx="18" />
+      <rect width="1200" height="260" rx="18" />
     </clipPath>
   </defs>
 
   <g clip-path="url(#frame)">
-    <rect width="1200" height="280" fill="url(#background)" />
-    <rect width="1200" height="280" fill="url(#grid)" />
+    <rect width="1200" height="260" fill="url(#background)" />
 
-    <path d="M0 216C179 183 342 238 537 209C747 178 915 182 1200 231V280H0Z" fill="#ffffff" fill-opacity="0.07" />
-    <path d="M0 235C197 201 382 252 583 225C797 196 998 212 1200 248V280H0Z" fill="url(#gold)" fill-opacity="0.2" />
+    <text x="600" y="91" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700" text-anchor="middle">Rithinteja Aechan</text>
+    <rect x="430" y="112" width="340" height="2" rx="1" fill="url(#accent)" />
+    <text x="600" y="148" fill="#e5d39a" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" letter-spacing="4" text-anchor="middle">AI • PRODUCT • CLOUD</text>
 
-    <g transform="translate(76 68)">
-      <rect width="112" height="112" rx="28" fill="#ffffff" fill-opacity="0.045" stroke="url(#gold)" stroke-width="2" />
-      <path d="M28 80V32H52C67 32 76 39 76 51C76 60 70 66 62 68L80 80H65L49 69H41V80ZM41 58H52C59 58 63 56 63 51C63 46 59 44 52 44H41Z" fill="#ffffff" />
-      <circle cx="89" cy="23" r="5" fill="#b3a369" />
-    </g>
-
-    <text x="674" y="111" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700" letter-spacing="0.2" text-anchor="middle">Rithinteja Aechan</text>
-    <rect x="501" y="133" width="346" height="2" rx="1" fill="url(#gold)" />
-    <text x="674" y="169" fill="#e5d39a" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" letter-spacing="4" text-anchor="middle">AI • PRODUCT • CLOUD</text>
+    <path d="M0 199C183 175 358 214 548 197C750 179 966 177 1200 207V260H0Z" fill="#16445f" />
+    <path d="M0 199C183 175 358 214 548 197C750 179 966 177 1200 207" fill="none" stroke="#b3a369" stroke-width="2" />
+    <path d="M0 221C207 197 415 235 654 218C864 203 1059 214 1200 231V260H0Z" fill="#09253b" />
   </g>
 </svg>
