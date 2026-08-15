@@ -23,12 +23,12 @@ I'm a Computer Science student at the **Georgia Institute of Technology 🐝** (
 
 ## Experience at a glance
 
-| Experience | Public-safe snapshot |
-|---|---|
-| **Zoox, AI TPM** | Worked on production AI and cloud delivery. **Private GitHub snapshot (2026): 321 contributions, 134 PRs authored, and 49 PRs reviewed.** Employer source code and implementation details are confidential. |
-| **Microsoft, AI Product Manager Fellow** | Used customer research and data analysis to shape an agentic-AI workflow, product requirements, success metrics, and a React-based MVP. |
-| **MetLife, Software Engineer Intern** | Built machine-learning/data systems and cloud automation spanning **2M+ records** and **9 regions**. The employer repository is private and is not mirrored here. |
-| **Georgia Tech GROWER Lab, Lead Cloud Data Engineering Research Assistant** | Led a **20-member** engineering research team and worked on AWS data pipelines, containers, and cloud cost optimization. This work is hosted under the [Urban Research Group](https://github.com/Urban-Research-Group), so it may not be fully represented on my personal contribution graph. |
+| Experience | Timeline | Public-safe snapshot |
+|---|---|---|
+| **Zoox, AI TPM** | May 2026 – Present | Worked on production AI and cloud delivery. **Private GitHub snapshot (2026): 321 contributions, 134 PRs authored, and 49 PRs reviewed.** Employer source code and implementation details are confidential. |
+| **Microsoft, AI Product Manager Fellow** | Sep 2025 – Dec 2025 | Used customer research and data analysis to shape an agentic-AI workflow, product requirements, success metrics, and a React-based MVP. |
+| **MetLife, Software Engineer Intern** | Jun 2025 – Dec 2025 | Built machine-learning/data systems and cloud automation spanning **2M+ records** and **9 regions**. The employer repository is private and is not mirrored here. |
+| **Georgia Tech GROWER Lab, Lead Cloud Data Engineering Research Assistant** | Aug 2024 – May 2026 | Led a **20-member** engineering research team and worked on AWS data pipelines, containers, and cloud cost optimization. This work is hosted under the [Urban Research Group](https://github.com/Urban-Research-Group), so it may not be fully represented on my personal contribution graph. |
 
 > **About the gaps in my graph:** My Zoox and MetLife engineering work lives in private employer repositories. Some Georgia Tech research is organization-hosted. The public repositories below are the best view of what I can share.
 
