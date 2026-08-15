@@ -25,7 +25,7 @@ I'm a Computer Science student at the **Georgia Institute of Technology** (AI + 
 
 | Experience | Public-safe snapshot |
 |---|---|
-| **Zoox — AI Technical Program Manager Intern** | Worked on production AI and cloud delivery. **Private GitHub snapshot (2026): 321 contributions, 134 PRs authored, and 49 PRs reviewed.** Employer source code and implementation details are confidential. |
+| **Zoox — AI TPM** | Worked on production AI and cloud delivery. **Private GitHub snapshot (2026): 321 contributions, 134 PRs authored, and 49 PRs reviewed.** Employer source code and implementation details are confidential. |
 | **Microsoft — AI Product Manager Fellow** | Used customer research and data analysis to shape an agentic-AI workflow, product requirements, success metrics, and a React-based MVP. |
 | **MetLife — Software Engineer Intern** | Built machine-learning/data systems and cloud automation spanning **2M+ records** and **9 regions**. The employer repository is private and is not mirrored here. |
 | **Georgia Tech GROWER Lab — Lead Cloud Data Engineering Research Assistant** | Led a **20-member** engineering research team and worked on AWS data pipelines, containers, and cloud cost optimization. This work is hosted under the [Urban Research Group](https://github.com/Urban-Research-Group), so it may not be fully represented on my personal contribution graph. |
