@@ -75,11 +75,6 @@ These repositories document hands-on AI product engineering practice: specs, too
 ## GitHub snapshot
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rithinteja&theme=transparent" alt="Rithinteja's GitHub stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rithinteja&theme=transparent" alt="Most used public repository languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Rithinteja&theme=transparent&hide_border=true" alt="Public GitHub contribution streak" />
 </p>
 
