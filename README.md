@@ -1,6 +1,11 @@
 <p align="center">
-  <img width="100%" src="./assets/atlanta-skyline-banner.png" alt="Atlanta skyline banner for Rithinteja Aechan" />
+  <a href="https://unsplash.com/photos/o9xfvzGzHXU">
+    <img width="100%" src="./assets/atlanta-night-photo.jpg" alt="Atlanta at night, photographed by Nikolay Loubet" />
+  </a>
 </p>
+
+<h1 align="center">Rithinteja Aechan</h1>
+<p align="center"><strong>AI • Product • Cloud</strong></p>
 
 <p align="center">
   <a href="https://www.rithin.dev/"><img src="https://img.shields.io/badge/Portfolio-rithin.dev-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
