@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Rithinteja Aechan</title>
+  <desc id="desc">AI, Product, and Cloud</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2563eb" />
+      <stop offset="0.5" stop-color="#7c3aed" />
+      <stop offset="1" stop-color="#06b6d4" />
+    </linearGradient>
+    <clipPath id="frame">
+      <rect width="1200" height="260" rx="18" />
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="260" fill="url(#background)" />
+    <rect width="1200" height="260" fill="#0f172a" fill-opacity="0.06" />
+
+    <text x="600" y="91" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700" text-anchor="middle">Rithinteja Aechan</text>
+    <rect x="430" y="112" width="340" height="2" rx="1" fill="#ffffff" fill-opacity="0.7" />
+    <text x="600" y="148" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" letter-spacing="4" text-anchor="middle">AI • PRODUCT • CLOUD</text>
+
+    <path d="M0 199C183 175 358 214 548 197C750 179 966 177 1200 207V260H0Z" fill="#ffffff" fill-opacity="0.18" />
+    <path d="M0 221C207 197 415 235 654 218C864 203 1059 214 1200 231V260H0Z" fill="#e0e7ff" fill-opacity="0.34" />
+  </g>
+</svg>

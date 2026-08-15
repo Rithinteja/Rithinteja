@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="./assets/profile-banner-clean.svg" alt="Rithinteja Aechan: AI, Product, Cloud" />
+  <img width="100%" src="./assets/profile-banner-gradient.svg" alt="Rithinteja Aechan: AI, Product, Cloud" />
 </p>
 
 <p align="center">
@@ -75,8 +75,8 @@ These repositories document hands-on AI product engineering practice: specs, too
 ## GitHub snapshot
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rithinteja&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" alt="Rithinteja's GitHub stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rithinteja&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Most used public repository languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rithinteja&theme=transparent" alt="Rithinteja's GitHub stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rithinteja&theme=transparent" alt="Most used public repository languages" />
 </p>
 
 <p align="center">
