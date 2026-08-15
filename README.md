@@ -9,12 +9,12 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&width=760&lines=Computer+Science+%40+Georgia+Tech;Building+agentic+AI+and+cloud+systems;Product-minded+engineer+%26+technical+program+manager;Turning+ambiguous+problems+into+shipped+products" alt="Typing introduction" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&width=760&lines=Computer+Science+%40+Georgia+Tech;Building+agentic+AI+and+cloud+systems;Product-minded+engineer+%26+AI+builder;Turning+ambiguous+problems+into+shipped+products" alt="Typing introduction" /></a>
 </p>
 
 ## Hey, I'm Rithin 👋
 
-I'm a Computer Science student at the **Georgia Institute of Technology 🐝** (AI + Human-Computer Interaction, May 2028) who enjoys working where software engineering, AI product development, and technical program leadership meet.
+I'm a Computer Science student at the **Georgia Institute of Technology 🐝** (AI + Human-Computer Interaction, May 2028) who enjoys working where software engineering, AI product development, and cloud delivery meet.
 
 - I build agentic AI, RAG, machine-learning, and full-stack products.
 - I enjoy taking systems from prototype to dependable cloud deployment.
