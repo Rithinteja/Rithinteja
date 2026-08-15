@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="./assets/profile-banner.svg" alt="Rithinteja Aechan: AI, Product, Cloud" />
+  <img width="100%" src="./assets/profile-banner-clean.svg" alt="Rithinteja Aechan: AI, Product, Cloud" />
 </p>
 
 <p align="center">
